@@ -36,6 +36,7 @@ public class Student {
 		return grade;
 	}
 	public void setGrade(String grade) {
+		System.out.println("123");
 		this.grade = grade;
 	}
 	
